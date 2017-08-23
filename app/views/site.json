@@ -1,0 +1,79 @@
+[
+    {
+        "hostname": [
+            "localhost",
+            "127.0.0.1",
+            "default",
+            "nengshida.link",
+            "nsd.yuncon.net",
+            "l.nengshida.link"
+        ],
+        "path": "nsd",
+        "files": [
+            "about.html",
+            "devicedatalogs.html",
+            "devicedatas.html",
+            "devicedatasLici.html",
+            "devicedebug.html",
+            "devicelist.html",
+            "devicepermisson.html",
+            "deviceregister.html",
+            "devices.html",
+            "empty.html",
+            "feedback.html",
+            "home.html",
+            "login.html",
+            "map.html",
+            "ng-sh.js",
+            "password.html",
+            "profile.html",
+            "reports.html",
+            "service.html",
+            "setting.html",
+            "userlist.html",
+            "userlogs.html",
+            "userregister.html",
+            "warninglist.html",
+            "ydcs.html",
+            "zysx.html"
+        ]
+    },
+    {
+        "hostname": [
+            "admin.nengshida.link",
+            "l.admin.nengshida.link"
+        ],
+        "path": "nsdadmin",
+        "files": [
+            "api.html",
+            "channel.html",
+            "chart.html",
+            "codeeditor.html",
+            "datas.html",
+            "device.html",
+            "devices.html",
+            "email.html",
+            "empty.html",
+            "file.html",
+            "firegateDTU.html",
+            "hmiviews.html",
+            "home.html",
+            "host.html",
+            "htmleditor.html",
+            "htmlview.html",
+            "lock.html",
+            "login.html",
+            "opc.html",
+            "orders.html",
+            "password.html",
+            "profile.html",
+            "reports.html",
+            "settings.html",
+            "sms.html",
+            "svghmi.html",
+            "userlogs.html",
+            "users.html",
+            "xmlhmi.html"
+        ]
+    }
+]
